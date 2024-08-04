@@ -18,3 +18,5 @@ There were some cool or notable things about the app including:
 - The sparkler effect is a 3D video capture of a real sparkler, made with a custom capture rig.  A friend made a wood frame for a couple of 4K Yi cameras
   
   ![61shB0mir5L _AC_SX679_](https://github.com/user-attachments/assets/5a9499e3-dc87-4653-a57f-a5b70981fd3a)
+
+There were some other things I experimented with too, like doing a photogrammetry capture of a section of beach for the user to stand on (instead of the raft / canoe that made it into the final).  I have that data still but wasn't able to finish it to a usable state at the time.
