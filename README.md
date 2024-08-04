@@ -14,6 +14,7 @@ The app was released for GearVR via an app code (rather than being on the storef
 
 There were some cool or notable things about the app including:
 - really good water shader with raycasted reflections of the fireworks and HDR sky
-- The sparkler effect is a 3D video capture of a real sparkler, made with a custom capture rig.  A friend made a wood frame for a couple of 4K Yi cameras
-  ![61shB0mir5L _AC_SX679_](https://github.com/user-attachments/assets/5a9499e3-dc87-4653-a57f-a5b70981fd3a)
 - The actual Fireworks show was an HD video rendered from Fireworks Sim Pro, a program I used to design the show and synchronize it to the music.
+- The sparkler effect is a 3D video capture of a real sparkler, made with a custom capture rig.  A friend made a wood frame for a couple of 4K Yi cameras
+  
+  ![61shB0mir5L _AC_SX679_](https://github.com/user-attachments/assets/5a9499e3-dc87-4653-a57f-a5b70981fd3a)
