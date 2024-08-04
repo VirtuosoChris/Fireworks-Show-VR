@@ -1,6 +1,6 @@
 # Fireworks-Show-VR
 
-Repo Status : Under Construction
+Repo Status : Under Construction, App for dead platform(s)
 
 Being a big fireworks fan, this was a fun little app I put together to celebrate 4th of July.  It was made on an earlier version of Virtuoso Engine, and was first released in [2016](https://www.youtube.com/watch?v=Vr6wFp4_UQU) and updated significantly in 2017.
 
